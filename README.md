@@ -1,11 +1,15 @@
 <h1 align="center">Oi 👋, Eu sou o Vinicios Schenten</h1>
 <h3 align="center">Desenvolvedor de soluções de Business Intelligence. Transformo dados em inteligência para diferentes áreas de negócio.</h3>
 
-- 🌱 Atualmente estou aprendendo **DAX Avançado, Linguagem M e Python**
 
-- 💬 Me pergunte sobre **Power BI, Power Query, DAX, SQL, Looker Studio e Excel.**
+  - <p align="justify">🔭 +4 anos de experiência profissional na área de dados, tendo atuado como líder em uma série de projetos de soluções de Business Intelligence para grandes empresas.  Possuo expertise sólida em ferramentas de BI, incluindo Power BI e Looker Studio, aliada a um profundo conhecimento em análise de negócios e indicadores.</p>
 
-- 📫 Você me acha através do e-mail **viniciosschenten@hotmail.com**
+  - 🌱 Atualmente estou aprendendo **DAX Avançado, Linguagem M e Python.**
+
+  - 💬 Me pergunte sobre **Power BI, Power Query, DAX, SQL, Looker Studio e Excel.**
+
+  - 📫 Você me acha através do e-mail **viniciosschenten@hotmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
